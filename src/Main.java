@@ -40,7 +40,7 @@ public class Main {
 
 
         System.out.println("\n\nДобро пожаловать в систему учета финансов \n\n ");
-
+        System.out.println("Выберите действие : ");
         Scanner mainScan = new Scanner(System.in);
 
 
